@@ -6,10 +6,10 @@
   "forceUpdate": false,
   "announcement": {
     "enabled": true,
-    "id": "notice_02",
+    "id": "notice_03",
     "type": "warning",
-    "title": "⚠️ 你好挖~",
-    "message": "測試功能中~~",
+    "title": "測試",
+    "message": "那麼晚了，趕快去睡覺",
     "date": "2026-10-03"
   }
 }
