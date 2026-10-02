@@ -5,7 +5,7 @@
   "changelog": "更新",
   "forceUpdate": false,
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "id": "notice_03",
     "type": "warning",
     "title": "測試",
