@@ -5,7 +5,7 @@
   "changelog": "更新功能測試\n縮小apk檔案大小",
   "forceUpdate": false,
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "id": "notice_01",
     "type": "warning",
     "title": "⚠️ TEST",
