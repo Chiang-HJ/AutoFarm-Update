@@ -8,8 +8,8 @@
     "enabled": true,
     "id": "notice_01",
     "type": "warning",
-    "title": "⚠️ 官方改版提醒",
-    "message": "遊戲今日更新，請暫停自動點擊避免異常！",
+    "title": "⚠️ TEST",
+    "message": "哈哈哈哈哈哈哈",
     "date": "2026-10-02"
   }
 }
