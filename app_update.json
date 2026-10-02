@@ -5,11 +5,11 @@
   "changelog": "更新",
   "forceUpdate": false,
   "announcement": {
-    "enabled": false,
-    "id": "notice_01",
+    "enabled": true,
+    "id": "notice_02",
     "type": "warning",
-    "title": "⚠️ TEST",
-    "message": "測試~~",
-    "date": "2026-10-02"
+    "title": "⚠️ 你好挖~",
+    "message": "測試功能中~~",
+    "date": "2026-10-03"
   }
 }
