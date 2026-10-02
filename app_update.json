@@ -1,11 +1,11 @@
 {
-  "versionCode": 50,
-  "versionName": "3.3.8",
-  "apkUrl": "https://github.com/Chiang-HJ/AutoFarm-Update/releases/download/v3.3.8/app-debug.apk",
-  "changelog": "1. 適配遊戲最新版本\n2. 支援 OTA 一鍵在線更新\n3. 支援即時廣播跑馬燈",
+  "versionCode": 51,
+  "versionName": "3.3.9",
+  "apkUrl": "https://ghproxy.net/https://github.com/Chiang-HJ/AutoFarm-Update/releases/download/v3.3.9/app-debug.apk",
+  "changelog": "更新功能測試",
   "forceUpdate": false,
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "id": "notice_01",
     "type": "warning",
     "title": "⚠️ 官方改版提醒",
