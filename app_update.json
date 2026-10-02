@@ -1,0 +1,15 @@
+{
+  "versionCode": 50,
+  "versionName": "3.3.8",
+  "apkUrl": "https://github.com/Chiang-HJ/AutoFarm-Update/releases/download/v3.3.8/app-debug.apk",
+  "changelog": "1. 適配遊戲最新版本\n2. 支援 OTA 一鍵在線更新\n3. 支援即時廣播跑馬燈",
+  "forceUpdate": false,
+  "announcement": {
+    "enabled": false,
+    "id": "notice_01",
+    "type": "warning",
+    "title": "⚠️ 官方改版提醒",
+    "message": "遊戲今日更新，請暫停自動點擊避免異常！",
+    "date": "2026-10-02"
+  }
+}
