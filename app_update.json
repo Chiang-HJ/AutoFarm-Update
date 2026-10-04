@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
-  "versionName": "2.8.45",
+  "versionCode": 91,
+  "versionName": "2.8.46",
   "apkUrl": "https://drive.usercontent.google.com/download?id=1u0sHpYgxp2eJiS1XX5TOqK1c_1k2wUoo&export=download&confirm=t",
-  "changelog": "更新用戶腳本與端腳本編輯功能",
+  "changelog": "更新因不同手機而使在採集點擊位置時與實際點擊位置產生的誤差",
   "forceUpdate": false,
   "announcement": {
     "enabled": false,
