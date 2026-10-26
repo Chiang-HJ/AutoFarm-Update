@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "3.0.2",
+  "versionCode": 101,
+  "versionName": "3.0.3",
   "apkUrl": "https://drive.usercontent.google.com/download?id=1u0sHpYgxp2eJiS1XX5TOqK1c_1k2wUoo&export=download&confirm=t",
-  "changelog": "【v3.0.2 更新內容】\n1. 升級版本號至 v3.0.2 (code: 100)\n2. 新增變數多階段輪數循環功能，同變數可依執行輪數自動切換不同參數\n3. 支援圖片變數縮圖預覽、解析度顯示、點擊放大與即時比對測試\n4. 支援在變數設定與採集面板直接進行螢幕框選截圖與新增多圖\n5. 修復用戶端儀表板變數採集狀態誤判，以及點擊測試時的轉型閃退問題\n6. 內建離線 Google ML Kit OCR 文字辨識引擎，免聯網精準辨識遊戲文字\n7. 新增蘑菇黑名單、相片特徵比對與動態區域封鎖機制\n8. 新增階梯式同心圓種花與隨機遊走路徑生成演算法\n9. 新增腳本執行截圖歷史記錄與檢視器，支援動作標註與步驟回放\n10. 整合 Android Health Connect 步數模擬與分類帳統計\n11. 優化螢幕框選截圖流程，截圖時自動隱藏所有懸浮窗避免畫面遮擋",
+  "changelog": "【v3.0.3 更新內容】\n1.連動花田觀測站，可以根據資料庫路線直接開啟收果路線\n2.可以自動開始倒數計時\n3.忘記還有甚麼了",
   "forceUpdate": false,
   "announcement": {
     "enabled": false,
